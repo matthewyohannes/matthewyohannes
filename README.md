@@ -17,6 +17,8 @@
 
 💻 I'm currently working on a **chat app**
 
+📕 I am learning Ruby and Go at the moment
+
 ⚡️ Fun fact, **I am left handed**!
 
   
