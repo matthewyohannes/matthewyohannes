@@ -15,7 +15,7 @@
 <div align="center">
 
 
-💡 I'm currently working on a **chat app**
+💻 I'm currently working on a **chat app**
 
 ⚡️ Fun fact, **I am left handed**!
 
