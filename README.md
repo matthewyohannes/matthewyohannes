@@ -9,3 +9,15 @@
 
 
 <h3>A passionate software developer based in North America</h3>
+
+<br/>
+
+<div align="center">
+
+
+I'm currently working on a **chat app**
+
+Fun fact, **I am left handed**!
+
+  
+</div>
