@@ -17,7 +17,7 @@
 
 I'm currently working on a **chat app**
 
-Fun fact, **I am left handed**!
+⚡️ Fun fact, **I am left handed**!
 
   
 </div>
