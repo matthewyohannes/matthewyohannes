@@ -40,12 +40,26 @@
 
 <hr/>
 
+<div>
+  <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,react,javascript,express,nodejs,cpp"> <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,flask,git,mongodb,npm,r,git,tailwind,postman,vite,apple">
+    </a>
+  </p>
+</div>
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,react,javascript,express,nodejs,cpp"> <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,flask,git,mongodb,npm,r,git,tailwind,postman,vite,apple">
-  </a>
-</p>
+<hr/>
+
+<div align="center">
+  <h2> My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/matthewyohannes/matthewyohannes/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+<div/>
+
+
+
