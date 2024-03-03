@@ -15,9 +15,9 @@
 <div align="center">
 
 
-💻 I'm currently working on a **chat app**
+💻 I'm currently working on a **real time chat app!**
 
-📕 I am learning Ruby and Go at the moment
+📕 I am diving deeper into **AWS** and **Azure** at the moment
 
 ⚡️ Fun fact, **I am left handed**!
 
