@@ -15,7 +15,7 @@
 <div align="center">
 
 
-💻 I'm currently working on a **real time chat app!**
+💻 I'm currently working towards the **Azure AI Fundamentals certification**
 
 📕 I am diving deeper into **AWS** and **Azure** at the moment
 
