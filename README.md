@@ -15,7 +15,7 @@
 <div align="center">
 
 
-💻 I'm currently working towards the **Azure AI Fundamentals certification**
+💻 I'm currently working towards the **AWS Cloud Practitioner Certification**
 
 📕 I am diving deeper into **Docker** at the moment
 
