@@ -8,7 +8,7 @@
 </h1>
 
 
-<h3 align = "center">Passionate software developer based in North America</h3>
+<h3 align = "center">Software developer based in North America</h3>
 
 <br/>
 
